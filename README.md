@@ -39,7 +39,7 @@ Un autre type de nœud, appelé un [mining node](https://en.wikipedia.org/wiki/B
 
 <Quiz questionId="cda75960-e266-4deb-b317-20ccdcae9b98" />
 
-L'utilisation d'une blockchain confirme que chaque unité de valeur n'a été transférée qu'une seule fois, et les mécanismes ingénieux mis en place par Satoshi Nakamoto ont résolu le problème de longue date de la décentralisation. [double-spending](https://en.wikipedia.org/wiki/Double-spending).
+L'utilisation d'une blockchain confirme que chaque unité de valeur n'a été transférée qu'une seule fois, et les mécanismes ingénieux mis en place par Satoshi Nakamoto ont résolu le problème de longue date de la décentralisation [double-spending](https://en.wikipedia.org/wiki/Double-spending).
 
 <Quiz questionId="229ed272-9cd3-4b42-936d-871cb2cfac3d" />
 
