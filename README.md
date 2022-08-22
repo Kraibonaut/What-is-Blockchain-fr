@@ -33,7 +33,7 @@ Comme il y a des millions de transactions, celles-ci sont regroupées en blocs. 
 
 Un réseau de blockchains est géré de manière autonome par un réseau distribué [peer-to-peer] (https://fr.wikipedia.org/wiki/Pair-%C3%A0-pair) de nœuds informatiques. Sans entrer dans les détails, on peut simplement considérer que chaque nœud du réseau conserve une copie du grand livre des transactions mondiales. Par conséquent, chaque nœud peut vérifier et contrôler individuellement les transactions effectuées sur le réseau et s'assurer qu'il n'y a pas eu de comportement illicite.
 
-Un autre type de nœud, appelé un[mining node](https://en.wikipedia.org/wiki/Bitcoin#Mining), Le mineur est chargé de regrouper les nouvelles transactions effectuées sur un réseau en un bloc, de les vérifier et de proposer à tous les autres d'inclure le bloc dans le grand livre mondial. Le minage est un processus difficile sur le plan informatique et il est très important de le faire en toute sécurité, c'est pourquoi les mineurs dont les blocs sont acceptés reçoivent une récompense symbolique pour leur travail.
+Un autre type de nœud, appelé un [mining node](https://en.wikipedia.org/wiki/Bitcoin#Mining), Le mineur est chargé de regrouper les nouvelles transactions effectuées sur un réseau en un bloc, de les vérifier et de proposer à tous les autres d'inclure le bloc dans le grand livre mondial. Le minage est un processus difficile sur le plan informatique et il est très important de le faire en toute sécurité, c'est pourquoi les mineurs dont les blocs sont acceptés reçoivent une récompense symbolique pour leur travail.
 
 <Quiz questionId="a96d92ca-5044-4d9e-b4c7-b094370a307f" />
 
