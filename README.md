@@ -1,4 +1,4 @@
-# Level 1 - What is Blockchain?
+# Level 1 - Qu'est-ce que la blockchain ??
 ![](https://i.imgur.com/Pn1B0t8.png)
 
 Une blockchain est une base de données partagée, distribuée et permanente entre plusieurs nœuds sur un réseau informatique. Elles enregistrent les données d'une manière qui rend impossible, de manière probabiliste, la modification ou le piratage du système.
