@@ -13,7 +13,7 @@ Au fil du temps, la conception du bitcoin a inspiré d'autres réseaux blockchai
 
 <Quiz questionId="aa97ba07-0129-461a-a162-c10f029d26c6" />
 
-### State Management
+### Gestion de l'État
 
 ![](https://i.imgur.com/VQySjQu.png)
 
@@ -43,7 +43,7 @@ L'utilisation d'une blockchain confirme que chaque unité de valeur n'a été tr
 
 <Quiz questionId="229ed272-9cd3-4b42-936d-871cb2cfac3d" />
 
-### Decentralization
+### Décentralisation
 En stockant les données dans un réseau de nœuds d'égal à égal, la blockchain est un réseau décentralisé. Cela présente des avantages considérables par rapport à l'approche traditionnelle consistant à stocker les données de manière centralisée. Il existe des exemples significatifs de problèmes liés à la centralisation - dont nous allons énumérer quelques-uns ici :
 
 - Les violations de données dans les systèmes centralisés exposent de nombreuses données
@@ -58,7 +58,7 @@ D'autre part, la décentralisation apporte les avantages inverses.
 - Résistance élevée aux attaques, ce qui rend impossible la manipulation ou la destruction des données.
 
 
-### Use Cases
+### Cas d'utilisation
 
 - Cryptocurrency
 - Smart Contracts
@@ -78,13 +78,13 @@ et bien d'autres encore...
 
 Pour en savoir plus sur les blockchains, nous vous conseillons vivement les ressources suivantes :
 
-#### Must Watch
+#### A voir absolument
 - [But how does bitcoin actually work? by 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 - [Blockchain Demo by Anders Brownworth](https://andersbrownworth.com/blockchain/)
 
 <Quiz questionId="faf19815-bb85-4e21-80aa-e2f7cb1bd6b7" />
 
-#### Recommended
+#### Recommandé
 - [A Gentle Introduction to Blockchain Technology by Bits On Blocks](https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/)
 - [How does a blockchain work by Simply Explained](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 
