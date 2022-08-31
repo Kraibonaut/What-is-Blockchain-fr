@@ -74,7 +74,7 @@ et bien d'autres encore...
 
 <Quiz questionId="694123d0-2716-463c-9f14-bb838b02a971" />
 
-### Resources
+### Ressources
 
 Pour en savoir plus sur les blockchains, nous vous conseillons vivement les ressources suivantes :
 
